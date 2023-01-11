@@ -1,0 +1,46 @@
+{
+    "Home_linear_speed":{
+        "Lower": 10.0,
+        "Upper": 1000.0
+    },
+    "Slow_linear_speed":{
+        "Lower": 9.0,
+        "Upper":1000
+    },
+    "Fast_linear_speed":{
+        "Lower": 9.0,
+        "Upper": 1000.0
+    },
+    "Angle_speed":{
+        "Lower": 0.1,
+        "Upper": 180.0
+    },
+    "Alarm_length":{
+        "Lower": 0.5,
+        "Upper": 10.0
+    },
+    "Read_in_interval": {
+        "Lower": 0.5,
+        "Upper": 5.0
+    },
+    "Close_timeout":{
+        "Lower": 0.5,
+        "Upper": 5.0
+    },
+    "Close_timeout_check":{
+        "Lower": 0.5,
+        "Upper": 5.0
+    },
+    "Status_open_to":{
+        "Lower": 0.5,
+        "Upper": 5.0
+    },
+    "Gripper_timeout":{
+        "Lower": 1.5,
+        "Upper": 10
+    },
+    "Payload":{
+        "Lower":1.0,
+        "Upper":5.0
+    }
+}

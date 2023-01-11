@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version = 1.0
+Name = Exit TestBench Program
+Exec = /home/pi/test_bench_tfg/kill.sh
+Icon = /home/pi/test_bench_tfg/sc/img/exit.png
+Type = Application
+Terminal = false

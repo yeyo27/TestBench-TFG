@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version = 1.0
+Name = Test Bench MSPM
+Exec = /home/pi/test_bench_tfg/exec.sh
+Icon = /home/pi/test_bench_tfg/sc/img/logopremo.PNG
+Type = Application
+Terminal = false
